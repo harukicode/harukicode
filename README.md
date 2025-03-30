@@ -1,6 +1,6 @@
 # Hello👋
 
-> Software Engineering Student and Web Development Enthusiast
+> Software Engineering Student and Web Development
 
 ## About me
 
@@ -8,22 +8,29 @@
 const developer = {
   name: "Illia",
   education: "Software Engineering",
-  interests: ["Web Development", "Process Organization", "UI/UX"],
+  interests: ["Process Organization", "Software Development"],
   currentlyLearning: ["React", "Node.js"],
-  lookingToCollaborate: true
 };
 ```
 
 ## Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harukicode&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&hide=contribs,prs)
+![harukicode's Stats](https://github-readme-stats.vercel.app/api?username=harukicode&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![harukicode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harukicode&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## Contact me
 
