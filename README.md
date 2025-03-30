@@ -25,8 +25,13 @@ const developer = {
 
 ## Stats
 
-![harukicode's Stats](https://github-readme-stats.vercel.app/api?username=harukicode&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![harukicode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harukicode&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harukicode&show_icons=true&theme=tokyonight&hide_border=true)
+
+<details>
+  <summary>💡 Language Distribution</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harukicode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</details>
 
 ## Contact me
 
